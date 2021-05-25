@@ -2,10 +2,10 @@
 This is a script that you can play guess game with turtle or create your own game.
 
 # US States Guess Game
-## Can you guess all 50 states in America?
+Can you guess all 50 states in America?
 
 # European Countries Guess Game
-## Can you guess all the countries in Europe?
+Can you guess all the countries in Europe?
 
 # Create Your Own Guess Game
 ## You can create your own Turtle guess game with this script!
