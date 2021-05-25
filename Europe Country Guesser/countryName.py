@@ -31,5 +31,5 @@ class CountryName(Turtle):
         elif size == "small":
             fontsize = 8
 
-        my_font = ("Courier", fontsize, "normal")
-        self.write(country_name, align="center", font=my_font)
+        my_font = ("Comic Sans MS", fontsize, "normal")
+        self.write(country_name.title(), align="center", font=my_font)
