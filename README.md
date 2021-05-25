@@ -3,10 +3,11 @@ This is a script that you can play guess game with turtle or create your own gam
 
 # US States Guess Game
 Can you guess all 50 states in America?
+![Image of USA](https://github.com/omerfaunal/TurtleGuessGame/blob/main/images/usa.PNG?raw=true)
 
 # European Countries Guess Game
 Can you guess all the countries in Europe?
-![Image of Europe](https://github.com/omerfaunal/TurtleGuessGame/blob/main/images/Europe.PNG?raw=true)
+![Image of Europe](https://github.com/omerfaunal/TurtleGuessGame/blob/main/images/europe.PNG?raw=true)
 
 # Create Your Own Guess Game
 ## You can create your own Turtle guess game with this script!
