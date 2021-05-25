@@ -10,7 +10,7 @@ from turtle import Turtle
 import random
 
 COLORS = ["blue", "orange", "red", "purple", "black", "pink", "coral", "DarkCyan", "CadetBlue", "DarkGreen"]
-FONT = ("Courier", 6, "normal")
+FONT = ("Comic Sans MS", 6, "bold")
 
 
 class StateName(Turtle):
