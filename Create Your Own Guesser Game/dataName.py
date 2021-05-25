@@ -9,7 +9,7 @@
 from turtle import Turtle
 import random
 # You can customize font
-FONT = ("Courier", 6, "normal")
+FONT = ("Comic Sans MS", 6, "normal")
 COLORS = ["blue", "orange", "red", "purple", "black", "pink", "coral", "DarkCyan", "CadetBlue", "DarkGreen"]
 
 
