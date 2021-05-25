@@ -6,6 +6,7 @@ Can you guess all 50 states in America?
 
 # European Countries Guess Game
 Can you guess all the countries in Europe?
+![Image of Europe](https://github.com/omerfaunal/TurtleGuessGame/tree/main/images/Europe.png)
 
 # Create Your Own Guess Game
 ## You can create your own Turtle guess game with this script!
